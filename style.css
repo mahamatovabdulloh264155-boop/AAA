@@ -1,0 +1,189 @@
+header{
+    width: 1171px;
+    height: 50px;
+    padding: 54px;
+    display: flex;
+}
+.ota{
+    display: flex;
+    width: 444px;
+    height: 20px;
+    justify-content: space-between;
+    font-size: 10px;
+    margin-left: 300px;
+}
+.btn{
+    width: 120px;
+    height: 50px;
+    background-color: orange;
+    color: white;
+    border: 0px;
+    border-radius: 5px;
+    margin-left: 100px;
+}
+.btn:active{
+    background-color: orange;
+    opacity: calc(0.5);
+}
+.ota1{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 54px;
+    width: 449px;
+    height: 497px;
+}
+.text:hover{
+    color: orange;
+}
+.text:active{
+    color: orange;
+    opacity: calc(0.5);
+}
+.text2{
+    font-size: 50px;
+    margin-top: 100px;
+}
+.text3{
+    font-size: 20px;
+    color: darkgray;
+    margin-bottom: 100px;
+}
+.spn{
+    color: orange;
+}
+.logo{
+    width: 728px;
+    height: 681px;display: flex;
+}
+main{
+    display: flex;
+    flex-wrap: wrap;
+}
+.btn1{
+    width: 163px;
+    height: 50px;
+    background-color: orange;
+    color: white;
+    border: 0px;
+    border-radius: 5px;
+}
+.btn1:active{
+    background-color: orange;
+    opacity: calc(0.5);
+}
+.logo1{
+    width: 626px;
+    height: 723px;
+    padding: 20px;
+}
+.ota2{
+    width: 500px;
+    height: 600px;
+    padding: 64px;
+}
+.btn2{
+    width: 176px;
+    height: 58px;
+    background-color: orange;
+    border: 0px;
+    color: white;
+    border-radius: 30px;
+    border-bottom-right-radius: 0px;
+}
+.btn2:active{
+    background-color: orange;
+    opacity: calc(0.5);
+}
+.text4{
+    width: 1171px;
+    font-size: 50px;
+    margin-left: 500px;
+}
+.dv{
+    width: 361px;
+    height: 417px;
+    position: relative;
+}
+.logo2{
+    width: 361px;
+    height: 299px;
+}
+.ota3{
+    width: 1171px;
+    display: flex;
+    justify-content: space-between;
+    padding: 64px;
+}
+.text5{
+    font-weight: 300;
+}
+.ota4{
+    width: 538px;
+    height: 174px;
+    padding: 54px;
+}
+footer{
+    width: 1170px;
+    height: 312px;
+    background-color: orange;
+    border: 0px;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-left: 60px;
+    position: relative;
+}
+.text6{
+    font-size: 18px;
+    font-weight: 300;
+    position: absolute;
+    top: 372px;
+    left: 30px;
+}
+.soat{
+    width: 22px;
+    height: 22px;
+}
+.btn3{
+    width: 79px;
+    height: 33px;
+    background-color: orange;
+    border-radius: 33px;
+    border-bottom-right-radius: 0px;
+    border: 0px;
+    position: absolute;
+    left: 240px;
+    top: 374px;
+}
+.btn3:active{
+    background-color: orange;
+    opacity: calc(0.5);
+}
+.text7{
+    color: white;
+    padding: 59px;
+    text-align: center;
+    font-size: 45px;
+}
+.input{
+    width: 838px;
+    height: 78px;
+    border: 0px;
+    border-radius: 50px;
+    margin-left: 160px;
+}
+.btn4{
+    background-color: orange;
+    width: 191px;
+    height: 58px;
+    border: 0px;
+    border-radius: 50px;
+    position: absolute;
+    left: 800px;
+    top: 210px;
+    color: white;
+    font-size: 18px;
+}
+.btn4:active{
+    background-color: orange;
+    opacity: calc(0.5);
+}
